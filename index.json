@@ -1,13 +1,13 @@
-{
-  Yoga:{
+[
+  "Yoga":{
     
     "title":"Yoga"
 },
-Video:{
+"Video":{
   "title":"Video"
 },
 
-Stress:{
+"Stress":{
   "title":"Stress"
 }
-}
+]
